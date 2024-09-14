@@ -1,0 +1,1 @@
+import{Gb as i,Ob as s,aa as o,pb as a,qb as r}from"./chunk-U6TSNRMP.js";import"./chunk-CWTPBX7D.js";var m=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-brands"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,d){n&1&&(a(0,"p"),i(1,"brands works!"),r())}});let t=e;return t})();export{m as BrandsComponent};

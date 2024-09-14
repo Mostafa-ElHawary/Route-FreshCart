@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "الرائيسية",
+    "product": "المنتجات",
+    "categories": "الفئات",
+    "brands": "العلامات التجارية",
+    "login": "تسجيل الدخول",
+    "signOut": "تسجيل خروج",
+    "createNewAccount": "إنشاء حساب جديد",
+    "lang": "العربية"
+  },
+  "home": {
+    "categories": "الفئات",
+    "popularProducts": "المنتجات الشائعة",
+    "View Category": "عرض الفئة",
+    "View Details": "عرض التفاصيل",
+    "Add to cart": "إضافة للسلة",
+    "Search products": "البحث عن منتجات",
+    "view All": "عرض الكل"
+  },
+  "cart": {
+    "remove": "إزالة",
+    "total": "المجموع",
+    "placeOrder": "إتمام الطلب",
+    "clear All": "مسح الكل",
+    "Your Cart": "سلة المشتريات"
+  },
+  "order": {
+    "Shipping Details": "تفاصيل الشحن",
+    "Address Details": "تفاصيل العنوان",
+    "City": "المدينة",
+    "Phone Number": "رقم الهاتف",
+    "Proceed to Checkout": "إتمام الشراء"
+  },
+  "footer": {
+    "getTheFreshCartApp": "احصل على تطبيق FreshCart",
+    "weWillSendYouALink": "سنرسل لك رابطًا ، فتفتحه على هاتفك لتنزيل التطبيق",
+    "paymentPartners": "شركاء الدفع",
+    "getDeliveriesWithFreshCart": "احصل على التوصيلات باستخدام FreshCart",
+    "shareAppLink": "مشاركة رابط التطبيق"
+  }
+}

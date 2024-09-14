@@ -1,0 +1,42 @@
+{
+    "nav":{
+        "home":"Home",
+        "product":"Products",
+        "categories":"Categories",
+        "brands":"Brands",
+        "login":"Login",
+        "signOut":"Sign Out",
+        "createNewAccount":"Create New Account",
+        "lang":"English"
+    },
+    "home":{
+        "categories":"Categories",
+        "popularProducts":"Popular Products",
+        "View Category":"View Category",
+        "View Details":"View Details",
+        "Add to cart":"Add to cart",
+        "Search products":"Search products",
+        "view All":"View All"
+    },
+    "cart":{
+        "remove":"Remove",
+        "Your Cart":"Your Cart",
+        "total":"Total",
+        "placeOrder":"Place Order",
+        "clear All":"Clear All"
+    },
+    "order":{
+        "Shipping Details":"Shipping Details",
+        "Address Details":"Address Details",
+        "City":"City",
+        "Phone Number":"Phone Number",
+        "Proceed to Checkout":"Proceed to Checkout"
+    },
+    "footer":{
+        "getTheFreshCartApp":"Get The FreshCart App",
+        "weWillSendYouALink":"We Will Send You a Link, Open it on Your Phone to download the app",
+        "paymentPartners":"Payment partners",
+        "getDeliveriesWithFreshCart":"Get Deliveries with FreshCart",
+        "shareAppLink":"Share App Link"
+    }
+}
